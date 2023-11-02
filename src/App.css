@@ -41,12 +41,28 @@ body{
   border-color: #8758FE;
 }
 
-.single-item-container{
-  text-align: right;
-  background-color: #8758FE;
-  width: 60%;
+.second{
+  margin-right: 275px;
+  background-color: #8758FE
 }
 
+.single-item-container{
+  /* text-align: right; */
+  margin-top: 100px;
+  display: inline-block;
+  background-color: #8758FE;
+  border-radius: 10px;
+  
+  /* width: 60%; */
+}
+ /* .fa-regular{
+  margin-right: 20px;
+} */
+
+/* .fa-solid{
+  margin-left: 20px;
+}  */
 form{
   width: 100%;
 }
+
